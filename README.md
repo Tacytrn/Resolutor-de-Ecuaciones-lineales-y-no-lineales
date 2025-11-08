@@ -1,4 +1,4 @@
-# Resolutor de Ecuaciones y no lineales
+# Resolutor de Ecuaciones no lineales
 Es un proyecto basado en Python que implimineta 6 metodos para encontrar raíces de ecuaciones no lineales como:
 
 ## **a) Métodos de Bracketing:**
