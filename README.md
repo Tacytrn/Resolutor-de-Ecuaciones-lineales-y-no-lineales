@@ -1,0 +1,1 @@
+# Resolutor-de-Ecuaciones-lineales-y-no-lineales
